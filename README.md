@@ -22,6 +22,28 @@ Here are links to some of my projects.
 -   [Alien Invasion][alien invasion]
 -   [Simple JavaScript Projects][simple javascript projects]
 
+-   [KoronKorko][koronkorko]
+-   [CoinCaps][coincaps]
+-   [WSB-Tickers][wsb-tickers]
+-   [TypeScript Multi-Page Form][ts-multi-page-form]
+-   [TypeScript Paginated Users Page][typescript paginated users page]
+-   [React Redux Toolkit Hello World][react redux toolkit hello world]
+-   [Déjà Vu][déjà vu]
+-   [CS-GO Weapons][cs-go weapons]
+-   [Polish Cow][polish cow]
+-   [Alien Invasion][alien invasion]
+-   [Simple JavaScript Projects][simple javascript projects]-   [KoronKorko][koronkorko]
+-   [CoinCaps][coincaps]
+-   [WSB-Tickers][wsb-tickers]
+-   [TypeScript Multi-Page Form][ts-multi-page-form]
+-   [TypeScript Paginated Users Page][typescript paginated users page]
+-   [React Redux Toolkit Hello World][react redux toolkit hello world]
+-   [Déjà Vu][déjà vu]
+-   [CS-GO Weapons][cs-go weapons]
+-   [Polish Cow][polish cow]
+-   [Alien Invasion][alien invasion]
+-   [Simple JavaScript Projects][simple javascript projects]
+
 ### Tech books
 
 Here is the full list of all the tech books that I have read.
